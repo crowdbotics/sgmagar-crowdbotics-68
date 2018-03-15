@@ -7,4 +7,3 @@ whitenoise==3.3.0
 aa_stripe
 django-paypal
 dj-paypal
-dj-stripe
