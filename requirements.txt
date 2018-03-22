@@ -9,3 +9,4 @@ django-paypal
 dj-paypal
 django-allauth
 dj-paypal
+django-twitter
